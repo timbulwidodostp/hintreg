@@ -1,6 +1,8 @@
 # hintreg
 Fit a heterogeneous normal interval regression model to interval data Use hintreg With (In) R Software
 
+https://www.youtube.com/watch?v=m1B2BRJ99NE
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
